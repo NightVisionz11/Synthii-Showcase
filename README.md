@@ -3,7 +3,7 @@
 **Transform any study notes into smart, personalized quizzes that adapt to your knowledge gaps.**
 
 [🌐 Live Demo](https://quiz.randomrng.com)  
-[📹 Demo Video](https://loom.com/your-video) *(optional but powerful)*
+[📹 Demo Video](https://loom.com/your-video) 
 
 ![Hero Screenshot](screenshots/hero.png)
 
@@ -33,8 +33,9 @@ Built solo to demonstrate full-stack development with modern AI integration.
 - File processing (PDF, DOCX, PPTX support)
 
 ## 📸 Screenshots
-
-*(Place 5–7 screenshots here showing: welcome screen, topic extraction, quiz interface, results with mastery bars, etc.)*
+![Screenshot 1](screenshots/Screenshot1.png)
+![Screenshot 2](screenshots/Screenshot2.png)
+![Screenshot 3](screenshots/Screenshot3.png)
 
 ## 📂 Repository Contents
 
@@ -63,8 +64,6 @@ The live app is fully hosted and functional. Feel free to test it at the link ab
 
 **Solo full-stack project showcasing React, Node.js, OpenAI API integration, and educational application design.**
 
-Made with ❤️ for better studying.
-
 ## 📝 Note for Developers
 
 This repository is primarily a **portfolio showcase** of my work. 
@@ -73,4 +72,4 @@ The code is provided under the MIT License, meaning you are free to use, modify,
 - Do not host a publicly accessible version of this app without significant original changes.
 - Give appropriate credit if you use large portions of the code in your own projects.
 
-The live version is actively maintained at [your-live-url.com](https://your-live-url.com).
+The live version is actively maintained at [https://quiz.randomrng.com]
