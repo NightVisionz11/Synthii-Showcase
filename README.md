@@ -2,7 +2,7 @@
 
 **Transform any study notes into smart, personalized quizzes that adapt to your knowledge gaps.**
 
-[🌐 Live Demo](https://quiz.randomrng.com)  
+[🌐 Live Demo](https://quiz.randomrng.com/demo)  
 [📹 Demo Video](https://loom.com/your-video) 
 
 ![Hero Screenshot](screenshots/hero.png)
