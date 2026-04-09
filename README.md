@@ -2,7 +2,10 @@
 
 **Transform any study notes into smart, personalized quizzes that adapt to your knowledge gaps.**
 
-[🌐 Live Demo](https://quiz.randomrng.com/demo)  
+[🌐 Live Demo](https://synthii.net/demo)  
+Checkout out this live demo link, you can try the website on pre-uploaded notes
+without signing up at all!
+
 [📹 Demo Video](https://loom.com/your-video) 
 
 ![Hero Screenshot](screenshots/hero.png)
@@ -72,4 +75,4 @@ The code is provided under the MIT License, meaning you are free to use, modify,
 - Do not host a publicly accessible version of this app without significant original changes.
 - Give appropriate credit if you use large portions of the code in your own projects.
 
-The live version is actively maintained at [https://quiz.randomrng.com]
+The live version is actively maintained at [https://synthii.net]
